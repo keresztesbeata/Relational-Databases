@@ -1,0 +1,15 @@
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (1, 1, 1, 270, 1, '2020-11-09', 1);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (2, 2, 2, 210, 2, '2020-11-09', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (3, 3, 3, 145, 3, '2020-11-10', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (4, 4, 4, 145, 4, '2020-11-10', 1);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (5, 5, 1, 95, 5, '2020-11-11', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (6, 6, 2, 25, 6, '2020-11-11', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (7, 7, 3, 30, 7, '2020-11-12', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (8, 8, 5, 70, 8, '2020-11-12', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (9, 9, 1, 59, 9, '2020-11-13', 1);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (10, 10, 2, 60, 10, '2020-11-13', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (11, 11, 3, 130, 11, '2020-11-14', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (12, 12, 1, 30, 12, '2020-11-14', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (13, 13, 2, 35, 13, '2020-11-15', 1);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (14, 14, 3, 20, 14, '2020-11-15', 2);
+INSERT INTO petshop.order_form (order_id, customer_id, order_status_id, total, delivery_address_id, order_date, payment_type_id) VALUES (15, 15, 1, 25, 15, '2020-11-16', 1);

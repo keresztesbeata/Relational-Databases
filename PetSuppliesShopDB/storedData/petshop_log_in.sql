@@ -1,0 +1,10 @@
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (1, 'MaddieWilliams01', 'Password1');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (2, 'HenryChurch02', 'Password2');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (3, 'MargotRobbie03', 'Password3');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (4, 'MosesElastair04', 'Password4');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (5, 'SamuelJackson05', 'Password5');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (6, 'AsaMercury06', 'Password6');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (7, 'RolloWeeks07', 'Password7');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (8, 'SarahJones08', 'Password8');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (9, 'MaryBrown09', 'Password9');
+INSERT INTO petshop.log_in (customer_id, username, user_password) VALUES (10, 'PerditaEverly10', 'Password10');

@@ -1,0 +1,10 @@
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (11, 1, 1, 1);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (12, 2, 2, 1);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (13, 4, 3, 1);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (14, 5, 4, 2);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (15, 6, 5, 2);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (16, 3, 6, 1);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (17, 7, 4, 1);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (18, 8, 2, 1);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (19, 1, 6, 1);
+INSERT INTO petshop.ph_healthcare (product_id, active_ingredient_id, medication_form_id, medication_type_id) VALUES (20, 9, 6, 2);

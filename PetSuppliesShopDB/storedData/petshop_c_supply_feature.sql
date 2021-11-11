@@ -1,0 +1,18 @@
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (11, 'Adjustable');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (18, 'Cruelty-Free');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (6, 'Dental');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (14, 'Detangling');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (4, 'Exercise');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (8, 'Fetching');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (16, 'Hypoallergenic');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (7, 'Indoor');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (17, 'Medicated');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (12, 'Outdoor');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (13, 'Reflective');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (15, 'Shed Control');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (9, 'Squeky');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (2, 'Stuffing-free');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (1, 'Tough Chewer');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (3, 'Training');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (5, 'Water Toy');
+INSERT INTO petshop.c_supply_feature (id, supply_feature) VALUES (10, 'Waterproof');

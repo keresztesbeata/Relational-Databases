@@ -1,0 +1,15 @@
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (1, 459, 'London', 'Shaftesbury Avenue', 11);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (2, 459, 'Yorkshire', 'New Cathedral Street', 12);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (3, 338, 'Dublin', 'Market Street', 13);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (4, 459, 'Manchester', 'Kingsway', 14);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (5, 459, 'Cambridge', 'Spring Gardens', 15);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (6, 459, 'Liverpool', 'Baker Street', 16);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (7, 459, 'London', 'Princess Street', 17);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (8, 309, 'Marseille', 'Rue de l’Eglise', 18);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (9, 459, 'Inverness', 'Portland Street', 19);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (10, 309, 'Paris', 'Rue Vieille Du Temple', 20);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (11, 316, 'Hamburg', 'Deichstraße', 21);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (12, 316, 'Berlin', 'Oranienburger Strasse', 22);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (13, 309, 'Lyon', 'Rue De La Huchette ', 23);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (14, 338, 'Belfast', 'Abbey Street', 24);
+INSERT INTO petshop.delivery_address (id, country_id, city, street, house_number) VALUES (15, 338, 'Limerick', 'Bridge Street ', 25);

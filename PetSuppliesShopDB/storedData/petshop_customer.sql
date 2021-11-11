@@ -1,0 +1,15 @@
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (1, 'Maddie', 'Williams', 'maddie.williams@gmail.com', '0040745234234');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (2, 'Henry', 'Church', 'henry.church@gmail.com', '0040745256837');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (3, 'Margot', 'Robbie', 'margot.robbie@gmail.com', '0040752485623');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (4, 'Moses', 'Elastair', 'moses.elastair@gmail.com', '0040755364528');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (5, 'Samuel', 'Jackson', 'samuel.jackson@gmail.com', '0040743645819');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (6, 'Asa', 'Mercury', 'asa.mercury@gmail.com', '0040752745992');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (7, 'Rollo', 'Weeks', 'rollo.weeks@gmail.com', '0040743458732');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (8, 'Sarah', 'Jones', 'sarah.jones@gmail.com', '0040756738456');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (9, 'Mary', 'Brown', 'mary.brown@gmail.com', '0040748346578');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (10, 'Perdita', 'Everly', 'perdita.everly@gmail.com', '0040756734599');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (11, 'John', 'Smith', 'john.smith@gmail.com', '0040752384582');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (12, 'Robin', 'Walcott', 'robin.walcott@gmail.com', '0040743745345');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (13, 'Emily', 'Winchester', 'emily.winchester@gmail.com', '0040752332466');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (14, 'William', 'Adams', 'william.adams@gmail.com', '0040745328469');
+INSERT INTO petshop.customer (customer_id, first_name, last_name, email_address, phone_number) VALUES (15, 'Sylvia', 'Evans', 'sylvia.evans@gmail.com', '0040753756283');

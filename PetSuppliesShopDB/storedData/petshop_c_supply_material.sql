@@ -1,0 +1,10 @@
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (2, 'Cotton');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (9, 'Cream');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (8, 'Gel');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (1, 'Leather');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (6, 'Microfiber');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (7, 'Neoprene');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (5, 'Plastic');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (4, 'Rope');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (10, 'Steel');
+INSERT INTO petshop.c_supply_material (id, supply_material) VALUES (3, 'Wood');
