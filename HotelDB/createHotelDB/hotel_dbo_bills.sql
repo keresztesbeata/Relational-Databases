@@ -1,0 +1,15 @@
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (1, 1, 1, 1, 1000);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (2, 2, 2, 2, 1800);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (3, 3, 3, 1, 1920);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (4, 4, 4, 2, 2400);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (5, 5, 5, 1, 7000);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (6, 6, 1, 2, 1400);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (7, 7, 2, 1, 1760);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (8, 8, 3, 2, 1540);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (9, 9, 4, 1, 2700);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (10, 10, 5, 2, 960);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (11, 11, 1, 1, 5000);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (12, 12, 2, 2, 1800);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (13, 13, 3, 1, 1100);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (14, 14, 4, 2, 2800);
+INSERT INTO hotel.dbo.bills (BillID, BookingID, PaymentTypeID, PaymentTimeID, Total) VALUES (15, 15, 5, 1, 1540);

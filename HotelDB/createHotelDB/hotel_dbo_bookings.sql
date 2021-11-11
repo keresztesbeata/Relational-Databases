@@ -1,0 +1,15 @@
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (1, 1, N'2020-11-04', N'2020-11-09', 2);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (2, 2, N'2020-11-04', N'2020-11-10', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (3, 3, N'2020-11-04', N'2020-11-10', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (4, 4, N'2020-11-05', N'2020-11-11', 4);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (5, 5, N'2020-11-05', N'2020-11-12', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (6, 6, N'2020-11-05', N'2020-11-12', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (7, 7, N'2020-11-06', N'2020-11-14', 2);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (8, 8, N'2020-11-06', N'2020-11-13', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (9, 9, N'2020-11-06', N'2020-11-15', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (10, 10, N'2020-11-07', N'2020-11-10', 6);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (11, 11, N'2020-11-07', N'2020-11-12', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (12, 12, N'2020-11-07', N'2020-11-16', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (13, 13, N'2020-11-07', N'2020-11-12', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (14, 14, N'2020-11-07', N'2020-11-21', 1);
+INSERT INTO hotel.dbo.bookings (BookingID, GuestID, CheckIn, CheckOut, NrPeople) VALUES (15, 15, N'2020-11-07', N'2020-11-14', 1);
